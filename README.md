@@ -8,3 +8,4 @@
 - [Yet Another Tetris Problem](https://codeforces.com/problemset/problem/1324/A)
 - [Domino Disaster](https://vjudge.net/contest/511211#problem/J)
 - [Japanese Crosswords Strike Back](https://vjudge.net/contest/511211#problem/K)
+- [Vitaliy and Pie](https://codeforces.com/problemset/problem/525/A)
