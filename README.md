@@ -11,3 +11,4 @@
 - [Vitaliy and Pie](https://codeforces.com/problemset/problem/525/A)
 - [Again Twenty Five](https://codeforces.com/problemset/problem/630/A)
 - [Treasure Hunt](https://codeforces.com/problemset/problem/817/A)
+- [Gregor and Cryptography](https://vjudge.net/contest/515591#problem/G)
