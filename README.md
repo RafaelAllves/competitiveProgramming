@@ -13,3 +13,4 @@
 - [Treasure Hunt](https://codeforces.com/problemset/problem/817/A)
 - [Gregor and Cryptography](https://vjudge.net/contest/515591#problem/G)
 - [Special Permutation](https://vjudge.net/contest/515591#problem/H)
+- [Start Up](https://codeforces.com/problemset/problem/420/A)
